@@ -15,7 +15,8 @@
         -LMB : regular attack	
         -RMB : heavy attack	
         -ESC: adjust volume/quit		
-        -Collect the key at the end of each level to exit it, and be able to progress to the next one.  If you're ever in a tight spot, you can press R to return to that level's            spawn point.		
+        -Collect the key at the end of each level to exit it, and be able to progress to the next one.  
+	-If you're ever in a tight spot, you can press R to return to that level's spawn point.		
         -Note: player name must be less than 10 characters.	
 	
 	
